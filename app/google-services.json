@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "214621496485",
+    "firebase_url": "https://kt-test-eddystone.firebaseio.com",
+    "project_id": "kt-test-eddystone",
+    "storage_bucket": "kt-test-eddystone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214621496485:android:7ee83c9cb3ec6926",
+        "android_client_info": {
+          "package_name": "th.co.bitfactory.kttesteddystone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214621496485-fnu7q4e8d9vlnnok39edcq9ggcdhsps7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "214621496485-fnu7q4e8d9vlnnok39edcq9ggcdhsps7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpdTtdhYwukPz8J_nnNM0XpIRJeZGiNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
